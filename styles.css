@@ -1,0 +1,68 @@
+body {
+    background: black;
+    color: white;
+    font-family: "Roboto";
+}
+
+.clearfix:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+.content-wrapper {
+    display: block;
+    width: 500px;
+    margin: auto;
+    border: 1px solid white;
+    padding: 20px;
+}
+
+.doge {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+section {
+    margin: 20px;
+}
+.section-header {
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+    border-bottom: 1px solid white;
+    /*margin: 20px;*/
+}
+
+.people-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.people-list img {
+    width: 200px;
+    float: left;
+    
+}
+
+a {
+    color: #ff69b4;
+}
+
+a:hover {
+    color: white;
+}
+
+.person-content {
+    width: 240px;
+    margin-left: 20px;
+    float: left;
+}
