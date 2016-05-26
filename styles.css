@@ -66,3 +66,7 @@ a:hover {
     margin-left: 20px;
     float: left;
 }
+
+li.clearfix {
+    padding-bottom: 25px;
+}
