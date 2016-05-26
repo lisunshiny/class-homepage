@@ -75,3 +75,7 @@ a:hover {
   -webkit-background-clip: text;
   background-clip: text;
 }
+
+li.clearfix {
+    padding-bottom: 25px;
+}
